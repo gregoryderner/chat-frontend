@@ -70,14 +70,6 @@ Siga os passos abaixo para configurar e executar o projeto localmente:
 
 Certifique-se de ter o Node.js e o npm instalados em sua máquina.
 
-### Instalação
 
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
-   npm install
-   REACT_APP_API_URL=http://localhost:3000/api/auth
-   npm start
-   ```
-
-   **Esse Frontend depende do repositorio xxx (API):**
+**Esse projeto depende do repositório:**
+*[chat-backend](https://github.com/gregoryderner/chat-backend.git)*
